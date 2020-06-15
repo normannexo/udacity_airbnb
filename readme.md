@@ -3,7 +3,7 @@
 
 ### Exploring Airbnb data for London
 
-Link to the (blog post on medium)[https://medium.com/@normannexo/airbnb-data-london-8e29e3ad8484]
+Link to the [blog post on Medium](https://medium.com/@normannexo/airbnb-data-london-8e29e3ad8484)
 
 ## 1. Introduction/Business Understanding
 Despite the ongoing global turmoil caused by the spread of the novel coronavirus and the restrictions
