@@ -3,3 +3,5 @@
 /.ipynb_checkpoints
 Untitled*.ipynb
 /data/airbnb/airbnb*
+*.png
+launch.json
